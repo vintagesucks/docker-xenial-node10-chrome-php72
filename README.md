@@ -5,5 +5,5 @@
 Docker image
 * Ubuntu 16.04
 * Node.js v10 + NPM + Yarn
-* PHP 7.2.28 + Composer
+* PHP 7.2.29 + Composer
 * Google Chrome
